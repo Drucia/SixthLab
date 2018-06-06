@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SixthLab</string>
+    <string name="app_folder_name">/Android/data/pl.druci.sixthlab/files/</string>
+    <string name="file_prefix">recording</string>
+    <string name="file_extension">.pcm</string>
+    <string name="name">Name...</string>
+    <string name="surname">Surname...</string>
+    <string name="title">Title...</string>
+    <string name="description">Short description...</string>
+    <string name="button_start">START</string>
+    <string name="button_stop">STOP</string>
+    <string name="button_reset">RESET</string>
+    <string name="button_list">LIST</string>
+    <string name="button_store">STORE</string>
+</resources>
