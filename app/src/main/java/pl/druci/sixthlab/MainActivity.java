@@ -59,6 +59,8 @@ public class MainActivity extends AppCompatActivity
         listRecordingButton.setEnabled(true);
 
         path = new File(Environment.getExternalStorageDirectory() + getString(R.string.app_folder_name));
+        File master_path = new File(Environment.getExternalStorageDirectory() + getString(R.string.app_master_folder_name));
+        master_path.mkdir();
         path.mkdir();
     } // public void onCreate(Bundle savedInstanceState)
 
