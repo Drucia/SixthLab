@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">SixthLab</string>
     <string name="app_folder_name">/Android/data/pl.druci.sixthlab/files/</string>
-    <string name="app_master_folder_name">/Android/data/pl.druci.sixthlab</string>
     <string name="file_prefix">recording</string>
     <string name="file_extension">.pcm</string>
     <string name="name">Name...</string>
